@@ -17,10 +17,12 @@
 - IDE : CLion
 
 ## Start Menu Screen
-- image
+- ![Start Menu](https://github.com/dinoduck22/DecryptionProgram/assets/124132148/841fa80a-0287-4dff-bf5e-e2f83c571147)
+
 
 ## Running Screen
-- image
+- ![Running Screen](https://github.com/dinoduck22/DecryptionProgram/assets/124132148/75146559-0756-4e50-b643-343c0fce68c4)
+
 
 ---
 ### PS
